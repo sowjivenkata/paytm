@@ -1,0 +1,9 @@
+git init
+git add F1
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sowjivenkata/bank.git
+git push -u origin main
+
+
+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
